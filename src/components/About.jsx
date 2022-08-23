@@ -20,7 +20,10 @@ const About = () => {
               <p>I am a student currently doing my B.tech from India I am passionate 
               about building excellent software that improves
               the lives of those around me. I specialize in frontend projects
-              
+              Apart from tech I am very much intrested in Footbal and  Formula 1
+              I love travelling too. Do have a look  on my projects
+
+    
               </p>  
             </div>
           </div>
